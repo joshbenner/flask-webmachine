@@ -13,7 +13,8 @@ setup(
     license='Apache',
 
     install_requires=[
-        'six'
+        'six',
+        'flask'
     ],
     extras_require={
         'test': [
