@@ -14,7 +14,8 @@ setup(
 
     install_requires=[
         'six',
-        'flask'
+        'flask',
+        'pytz'
     ],
     extras_require={
         'test': [
